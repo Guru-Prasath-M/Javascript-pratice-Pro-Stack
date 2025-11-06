@@ -1,0 +1,4 @@
+1. Group od statment for specific purpose
+2. Function is a Code Reuseability
+3. Return should be last line of code in our Function
+4. Return keyword it come out from block

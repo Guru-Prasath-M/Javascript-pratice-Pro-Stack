@@ -1,0 +1,73 @@
+JAVASCRIPT :
+------------
+
+JAVASCRIPT is a scripting programming language for WEB INTERACTIVITY
+JAVASCRIPT is a LIGHT WEIGHT programming language
+JAVASCRIPT is a Loosly typed Programming language / Not STRICTLY TYPED
+JAVASCRIPT is a DYNAMIC TYPED
+
+MAIN DISADVANTAGE OF JAVASCRIPT IS LESS SECURITY BECAUSE JAVASCRIPT IS RUNNING IN CLIENT SIDE
+
+THERE ARE 65+ KEYWORDS IN JAVASCRIPT.
+
+IDENTIFIER :
+------------
+
+Identifier should contain only a-z , A-Z , 0-9 , _ , $
+Identifier should not start with digits -> 0-9
+Identifier should not contain any special character / symbols
+Should not use keyword as a Identifier
+Case Sensitive
+
+Example:
+--------
+ 
+valid:
+ 
+ * ename
+ * emp_Id
+ * _num
+
+invalid:
+
+ * &name
+ * functionname
+ * 19number.
+
+
+KEYWORDS :
+---------
+
+Datatype      - var, let, const
+ 	        true, false
+ 	        undefined, null
+
+Control Flow  - if, else, switch, case, break, default, for, while, do ,
+ 	        of, in.
+
+Functions     - function , return , continue , delete debugger
+
+OOP           - class, new, this, super, extends
+
+Error handling- try, catch, throw, finally, throws
+
+Es6           - import, export, async, await.
+
+
+JS - ARRAY :
+------------
+
+Group of elements as one entity
+Allowed Duplicates & Heterogeneous
+Elements are storing based indexing [o to n-1]
+-ve indexing are not possible
+iterable object - we can create using for loop, while loop, for of....
+Order maintained
+
+JS-OBJECT :
+-----------
+
+Group of key : value - pairs as one entity
+Duplicates keys are not allowed
+Indexing concept is not applicable
+JS object is not iterable

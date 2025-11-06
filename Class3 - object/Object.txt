@@ -1,0 +1,4 @@
+Group of key : value - pairs as one entity
+Duplicates keys are not allowed
+Indexing concept is not applicable
+JS object is not iterable

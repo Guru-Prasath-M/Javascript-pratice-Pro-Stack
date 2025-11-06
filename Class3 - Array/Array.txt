@@ -1,0 +1,6 @@
+Group of elements as one entity
+Allowed Duplicates & Heterogeneous
+Elements are storing based indexing [o to n-1]
+-ve indexing are not possible
+iterable object - we can create using for loop, while loop, for of....
+Order maintained
