@@ -1,0 +1,25 @@
+1. Let , Const
+2. Class
+3. ${} => String Literal -- It will read a variable in string format for CONSTRUCTING URL
+4. ()=>{} -- Fat Arrow Function or Arrow Function ==> Alternative way to write a function or Shortest way
+5. [] foreach() , [] map()  , [] filter() , [] find() , []reduce() , []findindex()
+6. ... ==> Spread Operator ==>used in [] and {} , Rest operator ==> Used in function
+7. import / export  , IMPORT is calling a file or page and EXPORT is assigning value
+8. Destructuring ==> [] , {}
+9. Asynchronous Progamming ==> a. Callback --Nothing but ()=>{}  b. Promise  c. async & await
+10. Set
+11. Clouser
+
+
+
+
+
+
+SPREAD OPERATOR :
+----------------
+
+IT IS USED TO EXTRACT AND COPY
+
+To create new ARRAY
+Merge ARRAYS
+Extending ARRAY ELEMENTS
