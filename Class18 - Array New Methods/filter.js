@@ -1,0 +1,6 @@
+//PRINT ALL EVEN NUMBERS USING FILTER
+//FITER METHOD IS USED TO CHECK EACH ELEMENT IN ARRAY AND RETURN NEW ARRAY WITH ONLY ELEMENT PASSES A CONDITION
+
+let numbers = [1,2,3,4,6,10,15,20]
+let even_num = numbers.filter(num=>num %2 === 0)
+console.log(even_num);
