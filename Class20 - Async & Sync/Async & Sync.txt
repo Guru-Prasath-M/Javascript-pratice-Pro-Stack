@@ -1,0 +1,16 @@
+Asynchronous :
+--------------
+1. Excute Multiple request at a time
+2. Non blocking the other's request
+3. We will use Callback , Promise , async & await
+
+
+Synchronous :
+-------------
+1. Excute only one request at a time
+2. Block the other's request
+
+
+Callback:
+---------
+1. Passing one function as a argument.
