@@ -7,7 +7,7 @@
 7. import / export  , IMPORT is calling a file or page and EXPORT is assigning value
 8. Destructuring ==> [] , {}
 9. Asynchronous Progamming ==> a. Callback --Nothing but ()=>{}  b. Promise  c. async & await
-10. Set
+10. Set ==> Remove the Duplicates
 11. Clouser
 
 
